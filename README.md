@@ -4,7 +4,7 @@ Este repositório reúne as soluções dos contests 2
 
 **Desafios de Programação**.
 
-Cada contest está organizado em uma branch separada, contendo apenas o arquivo `.cpp` com a solução correspondente.
+Os arquivos de cada contest estão organizados em pastas dentro do repositório principal, contendo apenas o arquivo `.cpp` com a solução correspondente.
 
 ## 🏆 Contest Principal
 
